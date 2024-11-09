@@ -19,8 +19,4 @@ Once you have Stockfish set up, you’re ready to go!
 2. A difficulty slider (from 1 to 20) will appear for you to select how hard the AI will play (20 being impossible to beat).
 3. Once you select your desired difficulty, the game will start. But it's all scrabled up...
 
-# Enjoy!
-
-
-
-
+## Enjoy! (or not)
