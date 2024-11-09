@@ -1,7 +1,7 @@
 # god-awful-chess
 chess, but it's something you'd never wanna play
 
-#setup
+# setup
 In order for any parts of the game to work, you must download Stockfish. <br>
 Link [Direct Download]:  <br>
 https://github.com/official-stockfish/Stockfish/releases/latest/download/stockfish-windows-x86-64-avx2.zip
