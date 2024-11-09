@@ -20,3 +20,4 @@ Once you have Stockfish set up, you’re ready to go!
 3. Once you select your desired difficulty, the game will start. But it's all scrabled up...
 
 ## Enjoy! (or not)
+For your conviniece, I've managed to cram everything into one long file...this took way too long
