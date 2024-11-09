@@ -1,14 +1,26 @@
 # god-awful-chess
-chess, but it's something you'd never wanna play
+a game of chess where the pieces are scrambled and you'd hate me if you play it
 
-# setup
-In order for any parts of the game to work, you must download Stockfish. <br>
-Link [Direct Download]:  <br>
-https://github.com/official-stockfish/Stockfish/releases/latest/download/stockfish-windows-x86-64-avx2.zip  <br>
-Once you have downloaded, unzip the file, copy "stockfish-windows-x86-64-avx2" to the same directory as "main_release.py", and *rename it it stockfish.exe*. 
+## Setup
+To run the game, you need to have **Stockfish** (the chess engine) installed. Follow these steps:
 
-# play  <br>
-Now that you've got stockfish set up, simply run "main-release.py", select your difficulty (1-20, whereas 20 is impossible to beat), and play normal chess, but all the pieces are scrabmled up.
+1. **Download Stockfish**:
+   - *Direct* Download: [Stockfish Latest Release](https://github.com/official-stockfish/Stockfish/releases/latest/download/stockfish-windows-x86-64-avx2.zip)
+   
+2. **Unzip the Stockfish file** and **rename the executable**:
+   - After downloading, unzip the file.
+   - Copy the `stockfish-windows-x86-64-avx2.exe` executable from the unzipped folder into the same directory as `main_release.py` and the `assets` folder.
+   - *Rename* the Stockfish executable file to `stockfish.exe`.
 
-*Enjoy!*
+Once you have Stockfish set up, you’re ready to go!
+
+## Play
+1. After the setup is complete, simply run `main_release.py`.
+2. A difficulty slider (from 1 to 20) will appear for you to select how hard the AI will play (20 being impossible to beat).
+3. Once you select your desired difficulty, the game will start. But it's all scrabled up...
+
+# Enjoy!
+
+
+
 
