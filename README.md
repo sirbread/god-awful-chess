@@ -17,7 +17,7 @@ Once you have Stockfish set up, you’re ready to go!
 ## Play
 1. After the setup is complete, simply run `main_release.py`.
 2. A difficulty slider (from 1 to 20) will appear for you to select how hard the AI will play (20 being impossible to beat).
-3. Once you select your desired difficulty, the game will start. But it's all scrabled up...
+3. Once you select your desired difficulty, the game will start. But it's all scrambled up...
 
 ## Enjoy! (or not)
 For your convenience, I've managed to cram everything into one long file...this took way too long
